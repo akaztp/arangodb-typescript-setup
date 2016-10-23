@@ -1,4 +1,4 @@
-# Programming ArangoDB FOXX services in Typescript: stetup project
+# Programming ArangoDB FOXX services in Typescript: setup project
 
 This is a setup repository for programming Foxx services using Typescript 2.0. 
 
