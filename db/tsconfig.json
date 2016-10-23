@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2015",
+        "watch": true,
+        "outDir": "../../arangoDB/var/lib/arangodb3-apps/_db/GettingStarted/my/foxx/APP"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

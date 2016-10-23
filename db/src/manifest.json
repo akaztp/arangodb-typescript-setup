@@ -1,0 +1,11 @@
+﻿{
+    "name": "getting-started",
+    "version": "1.0.0",
+    "description": "Getting started example service.",
+    "engines": {
+        "arangodb": "^3.0.0"
+    },
+    "author": "ztp",
+    "license": "MIT",
+    "main": "main.js"
+}
