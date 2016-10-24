@@ -1,6 +1,6 @@
 {
   "name": "arangodb-typescript-setup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using Typescript for programming ArangoDB FOXX services.",
   "scripts": {
   },
