@@ -2,4 +2,4 @@
 
 This is a setup repository for programming Foxx services using Typescript 2.0. 
 
-Please refer to the accompanying [article](http://devblog.ztp.pt/).
+Please refer to the accompanying [article](http://devblog.ztp.pt/using-typescript-for-programming-arangodb-foxx-services/).
