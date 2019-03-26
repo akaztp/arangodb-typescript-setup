@@ -2,8 +2,7 @@
   "name": "arangodb-typescript-setup",
   "version": "1.0.1",
   "description": "Using Typescript for programming ArangoDB FOXX services.",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akaztp/arangodb-typescript-setup.git"
@@ -20,8 +19,11 @@
   },
   "homepage": "https://github.com/akaztp/arangodb-typescript-setup#readme",
   "devDependencies": {
-    "@types/joi": "^9.0.32",
-    "@types/node": "^6.0.45",
-    "typescript": "^2.0.3"
+    "@types/arangodb": "^3.4.9",
+    "@types/node": "^6.14.4",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "@types/joi": "^14.3.2"
   }
 }
