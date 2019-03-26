@@ -1,4 +1,4 @@
-## [ArangoDB Foxx](https://docs.arangodb.com/3.4/Manual/Foxx/) services in TypeScript
+# [ArangoDB Foxx](https://docs.arangodb.com/3.4/Manual/Foxx/) services in TypeScript
 
 This is a setup repository for programming Foxx services using Typescript 3.3. 
 
