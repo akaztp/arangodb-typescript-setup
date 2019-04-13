@@ -8,6 +8,6 @@ router.get('/hello/:name', function (req, res) {
     res.send(`Hello ${req.pathParams.name}`);
 })
     .pathParam('name', joi.string().required(), 'Name to greet.')
-    .response(['text/plain'], 'A personalized greeting.')
+    .response('ok', 'A personalized greeting.')
     .summary('Personalized greeting')
     .description('Prints a personalized greeting.');
